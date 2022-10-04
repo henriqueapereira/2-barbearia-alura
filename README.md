@@ -16,7 +16,7 @@ Conteudo:
   Opacidade e sombra
   Design responsivo e viewport
 
-[🔗 Clique aqui para acessar](https://henriqueapereira.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://henriqueapereira.github.io/2-barbearia-alura/))
 
 ## 🛠️ Tecnologias
 
